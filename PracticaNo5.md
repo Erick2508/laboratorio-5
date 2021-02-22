@@ -24,7 +24,27 @@
 
 El capacitor es un dispositivo eléctrico que permite almacenar energía en forma de campo eléctrico. Es decir, es un dispositivo que almacena cargas en reposo o estáticas. A diferencia de una batería común, el capacitor solo almacena la energía y puede actuar de filtro en un circuito electrónico, en cambio. La batería no solo almacena la energía, sino que también la genera. Este es un aspecto en el cual muchos jóvenes se confunden. No obstante, indaguemos un poco y veamos como inicio la creación de este componente electrónico que tanto usamos en la actualidad y cuáles fueron sus creadores.
 
+**Aplixcaciones mas comunes para los capacitores**
 
+•	Dispositivos que requieren capacitores para almacenar una carga la cual debe ser liberada rápidamente; como por ejemplo el flash de la cámara fotográfica, grandes láseres que requieren hacer brillantes e instantáneos.
+
+•	Los capacitores pueden eliminar ondas o rizos en la frecuencia de la corriente eléctrica. Si en un circuito con corriente de voltaje continuo DC hay rizos u ondas un capacitor grande puede absorber los picos y llenar los valles, nivelando el voltaje.
+
+En circuitos en los que el voltaje de la corriente eléctrica fluctúa mucho; mediante el uso de un capacitor intermedio se puede nivelar bastante el mismo; ya que cuando el voltaje aumenta la energía sobrante es almacenada por el capacitor y cuando baja la energía acumulada es liberada. Como dato interesante es bueno saber que, si a ese circuito se le agrega una resistencia junto al capacitor, la fluctuación en el voltaje casi desaparece por completo.
+
+**Inductor o bobinas**
+
+La bobina o inductor es un componente pasivo hecho de un alambre aislado que por su forma (espiras de alambre arrollados) almacena energía en forma de campo magnético, por un fenómeno llamado autoinducción. El inductor es diferente del condensador / capacitor, que almacena energía en forma de campo eléctrico.
+Este componente almacena energía en forma de campo magnético. Todo cable por el que circula una corriente tiene a su alrededor un campo magnético, siendo el sentido de flujo del campo magnético, el que establece la ley de la mano derecha.
+Al estar el inductor hecho de espiras de cable, el campo magnético circula por el centro del mismo y cierra su camino por su parte exterior.
+
+**Aplicaciones mas comunes para las bobinas o inductores**
+
+-  En los sistemas de iluminación con lámparas fluorescentes existe un elemento adicional que acompaña al tubo y que comúnmente se llama balastro
+
+- En las fuentes de alimentación también se usan bobinas para filtrar componentes de corriente alterna y solo obtener corriente continua en la salida
+
+- En muchos circuitos osciladores se incluye una bobina o inductor. Por ejemplo, circuitos RLC serie o paralelo.
 
 3.-**MATERIALES Y EQUIPO REQUERIDO**
 
