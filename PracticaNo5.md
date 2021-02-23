@@ -22,9 +22,9 @@
 
 **Capacitor**
 
-El capacitor es un dispositivo eléctrico que permite almacenar energía en forma de campo eléctrico. Es decir, es un dispositivo que almacena cargas en reposo o estáticas. A diferencia de una batería común, el capacitor solo almacena la energía y puede actuar de filtro en un circuito electrónico, en cambio. La batería no solo almacena la energía, sino que también la genera. Este es un aspecto en el cual muchos jóvenes se confunden. No obstante, indaguemos un poco y veamos como inicio la creación de este componente electrónico que tanto usamos en la actualidad y cuáles fueron sus creadores.
+El capacitor es un dispositivo eléctrico que permite almacenar energía en forma de campo eléctrico. Es decir, es un dispositivo que almacena cargas en reposo o estáticas. A diferencia de una batería común, el capacitor solo almacena la energía y puede actuar de filtro en un circuito electrónico, en cambio. La batería no solo almacena la energía, sino que también la genera. Este es un aspecto en el cual muchos jóvenes se confunden. 
 
-**Aplixcaciones mas comunes para los capacitores**
+**Aplicaciones mas comunes para los capacitores**
 
 •	Dispositivos que requieren capacitores para almacenar una carga la cual debe ser liberada rápidamente; como por ejemplo el flash de la cámara fotográfica, grandes láseres que requieren hacer brillantes e instantáneos.
 
