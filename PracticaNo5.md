@@ -99,13 +99,52 @@ Se requiere el análisis analítico de los circuitos mostrados en los diagramas 
 
 a).-Justifique los errores cometidos en las mediciones.¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Es posible que los errores de mediciones deban a las tolerancias de error propias de los
+elementos del circuito o a los equipos de medición porque los datos obtenidos si tienden
+a ser los correctos.
+
 b).-¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase de transición y fase de continua. En la fase de estabilización, se producen los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “rama abierta” en el circuito.
+
+𝑖(𝑡) = 0
+
+𝑖(𝑡) = C (dv(t))/dt=0 ;v(t)=constante
+
+En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito.
+
+𝑣(𝑡) =  L (di(t))/dt=0 ;v(t)=constante
 
 c).-¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido.
+
+i(t)=  (dv(t))/dt
+
+Entonces se puede representar al capacitor como un elemento pasivo más en el circuito.
+
+Al existir una variación de la corriente en un circuito de corriente alterna es posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido.
+
+i(t)=  (dv(t))/dt
+
+Entonces se puede representar al inductor como un elemento pasivo más en el circuito.
+
 d).-¿Qué cree usted que ocurriría con el voltaje V_o y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+- Lo único que sucedería es que los valores de V_0 varíen en función de que tanto se altere la importancia X del valor total de impedancia. V_0
+                                         
+                                         Z = R + jX
+                                         
+Si la importancia capacitiva o resistiva resulta ser menor, la caída de tensión V_0 seria menor y si resulta ser mayor, la caída de tensión V_0 sería mayor teóricamente.
+
 e).-¿Qué son los valores eficaces de voltaje y corriente?
+
+Los valores edificases de corriente y voltaje son tranquilos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
+
+                      F = Valor eficaz: f(t) = función de voltaje o corriente: T = periodo 
+
+                                                             
+F=(f(t))/(√2)
 
 9.-**CONCLUSIONES**
 
