@@ -171,3 +171,5 @@ https://como-funciona.co/un-condensador/
 11.-**ANEXOS**
 
 ![LTspice XVII -  Draft1 asc  23_02_2021 13_21_14](https://user-images.githubusercontent.com/75336529/108889620-98189400-75da-11eb-8086-295d77f82d2e.png)
+
+![Editing laboratorio-5_PracticaNo5 md at main · Erick2508_laboratorio-5 - Google Chrome 23_02_2021 13_36_59](https://user-images.githubusercontent.com/75336529/108891156-60125080-75dc-11eb-8b03-943d8124445e.png)
