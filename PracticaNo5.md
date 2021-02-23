@@ -95,6 +95,12 @@ Se requiere el análisis analítico de los circuitos mostrados en los diagramas 
 
 7.-**ANÁLIS DE RESULTADOS**
 
+![t1o](https://user-images.githubusercontent.com/75336529/108889616-96e76700-75da-11eb-9de2-6182437fc5e9.png)
+
+![t1m](https://user-images.githubusercontent.com/75336529/108889627-99e25780-75da-11eb-939b-90d342611099.png)
+
+![t2m](https://user-images.githubusercontent.com/75336529/108889625-9949c100-75da-11eb-8948-08420077805b.png)
+
 8.-**PREGUNTAS**
 
 a).-Justifique los errores cometidos en las mediciones.¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
@@ -159,3 +165,9 @@ F=(f(t))/(√2)
 •	Mientras mayor se la frecuencia de la impedancia capacitiva será menor.
 
 10.-**BIBLIOGRAFIA**
+
+https://como-funciona.co/un-condensador/
+
+11.-**ANEXOS**
+
+![LTspice XVII -  Draft1 asc  23_02_2021 13_21_14](https://user-images.githubusercontent.com/75336529/108889620-98189400-75da-11eb-8086-295d77f82d2e.png)
